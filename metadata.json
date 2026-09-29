@@ -1,0 +1,6 @@
+{
+  "name": "Wool & Bloom | Handmade Crochet & Woolen Flowers",
+  "description": "Handmade crochet rose bouquets, woolen flower arrangements, custom bouquets, and cute yarn gifts crafted with love to last forever.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
